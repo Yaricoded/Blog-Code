@@ -1,0 +1,1 @@
+Code used in the yariverse from pior to 3/05/26. This includes finance, tech, quant level+ used in the Yariverse, from quant level models for fiancen statements to aws projects for core2, and even decoding behaviro machine learning models.
